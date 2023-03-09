@@ -57,10 +57,10 @@ export function Hero() {
               web applications from scratch.
             </p>
             <div className="mt-8 flex gap-4">
-              <Button href="mailto:learn-rails@kuartz.fr" color="blue">
+              <Button href="mailto:learn-rails@kuartz.io" color="blue">
                 Get sample video
               </Button>
-              <Button href="mailto:learn-rails@kuartz.fr" variant="outline" color="blue">
+              <Button href="mailto:learn-rails@kuartz.io" variant="outline" color="blue">
                 Buy course
               </Button>
             </div>
